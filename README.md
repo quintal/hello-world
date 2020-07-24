@@ -1,6 +1,10 @@
 # hello-world
 
-This is the first repository. 
+Welcome visitor!
 
-Testing the branching feature right now. However, it is not suprisingly different than subversion. Just with local copies.
+Here can some of my projects be found that I would like to share. 
+
+I am an electrical engineer and like to play around with new electronics, programming languages etc. 
+
+Github is a great platform for sharing some of my projects. However, it is not suprisingly different than subversion. Just with local copies.
 
